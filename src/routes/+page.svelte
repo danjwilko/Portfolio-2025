@@ -9,9 +9,10 @@
       video: '/Alien_invasion_demo_vid.mp4'
     },
     {
-      title: 'Portfolio Website',
-      description: 'This cyber-themed portfolio built with Svelte + Tailwind.',
-      link: 'https://danjwilko.github.io'
+      title: 'BEEYOND FITNESS',
+      description: 'A website for a small fitness business, built with Svelte + Tailwind.',
+      link: 'https://beeyondfitness.co.uk',
+      image: '/BEEYOND-FITNESS-Site.png'
     },
     {
       title: 'TryHackMe: Junior Penetration Tester Pathway',

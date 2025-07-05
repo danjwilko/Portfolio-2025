@@ -16,7 +16,7 @@
 >
   {#if image && !iframe}
     <div
-      class="absolute inset-0 opacity-10 bg-cover bg-center"
+      class="bg-cover bg-center w-full h-48 object-cover rounded mb-4"
       style="background-image: url('{image}');"
     ></div>
   {/if}
