@@ -10,7 +10,7 @@
     },
     {
       title: 'BEEYOND FITNESS Website',
-      description: 'A website for a small fitness business, built with Svelte + Tailwind.',
+      description: 'The newly rebuilt BEEYOND FITNESS website, developed from scratch using SvelteKit and Tailwind CSS. Redesigned for modern styling, accessibility, and mobile responsiveness.',
       link: 'https://beeyondfitness.co.uk',
       image: '/BEEYOND-FITNESS-Site.png'
     },
@@ -19,6 +19,12 @@
       description: 'Hands-on learning in offensive security, covering web, networking, enumeration, and exploitation. Progressing toward JPT1 and Security+ certification.',
       link: 'https://tryhackme.com/p/Danjwilko',
       iframe: "https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1336195"
+    },
+    {
+      title: 'BEEYOND FITNESS Legacy Website',
+      description: 'The original version of the BEEYOND FITNESS website before its full redesign. Included basic styling and limited responsiveness, later replaced with a modern responsive build using Svelte and Tailwind.',
+      link: 'https://cranky-cray-bb389b.netlify.app',
+      image: '/OLD-BEEYOND-FITNESS-Site.png'
     }
   ];
 </script>
