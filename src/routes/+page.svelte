@@ -9,7 +9,7 @@
       video: '/Alien_invasion_demo_vid.mp4'
     },
     {
-      title: 'BEEYOND FITNESS',
+      title: 'BEEYOND FITNESS Website',
       description: 'A website for a small fitness business, built with Svelte + Tailwind.',
       link: 'https://beeyondfitness.co.uk',
       image: '/BEEYOND-FITNESS-Site.png'
