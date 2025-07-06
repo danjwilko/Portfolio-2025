@@ -2,7 +2,7 @@
 
 A personal portfolio site showcasing projects across web development, game programming, and cybersecurity learning. Built using **SvelteKit** and **Tailwind CSS**, the site is fully responsive, accessible, and optimized for modern browsers.
 
-Live Site 👉 [beeyondfitness.co.uk](https://beeyondfitness.co.uk)
+Live Site 👉 [danielwilkinson-dev.netlify.app](https://danielwilkinson-dev.netlify.app)
 
 ---
 
