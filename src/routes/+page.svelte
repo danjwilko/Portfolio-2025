@@ -32,15 +32,15 @@
 <div class="min-h-screen bg-gray-900 text-gray-100 font-inter">
   <header class="text-center py-10 border-b border-gray-700">
     <h1 class="text-3xl font-bold text-blue-400">Daniel Wilkinson</h1>
-    <p class="text-sm text-gray-400">Cybersecurity & Web Dev | OU Final-Year Student</p>
+    <p class="text-sm text-gray-400">Development & Cyber Security | OU Final-Year Student</p>
   </header>
 
   <main class="max-w-4xl mx-auto px-4 py-12">
     <section class="mb-16">
       <h2 class="text-2xl font-semibold border-b border-blue-500 pb-2 mb-4">About Me</h2>
       <p>
-        Final-year OU Computing & IT student pivoting into cybersecurity and software dev.
-        Currently working through the TryHackMe JPT pathway and preparing for Security+.
+        Final-year OU Computing & IT student focusing on development and cyber security.
+        Currently working through the TryHackMe JPT pathway and preparing for Security+ alongside degree studies and personal projects.
       </p>
     </section>
 
@@ -56,7 +56,7 @@
     <section>
       <h2 class="text-2xl font-semibold border-b border-blue-500 pb-2 mb-4">Contact</h2>
       <p>
-        Email: <a href="mailto:daniel@example.com" class="text-blue-400 hover:underline">daniel@example.com</a><br>
+        Feel free to reach out for collaboration, questions, or just to connect!<br>
         GitHub: <a href="https://github.com/danjwilko" target="_blank" class="text-blue-400 hover:underline">danjwilko</a><br>
         LinkedIn: <a href="https://www.linkedin.com/in/daniel-j-wilkinson" target="_blank" class="text-blue-400 hover:underline">daniel-j-wilkinson</a>
       </p>
