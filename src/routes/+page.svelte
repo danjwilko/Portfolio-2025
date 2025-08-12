@@ -24,7 +24,7 @@
     title: 'Learning Log Web Application',
     description: 'A Django web application for tracking learning topics and progress, adapted from Python Crash Course. Features user authentication, topic and entry creation, and a clean Bootstrap-based UI. Updated and deployed to PythonAnywhere after resolving deprecated instructions from the original tutorial.',
     link: 'https://danjwilko.pythonanywhere.com',
-    image: '/Learning_Log_Screenshot.png'
+    image: '/Learning-Log.png'
   },
   {
     title: 'BEEYOND FITNESS Legacy Website',
