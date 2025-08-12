@@ -2,31 +2,38 @@
 <script>
   import ProjectCard from '../lib/ProjectCard.svelte';
   const projects = [
-    {
-      title: 'Alien Invasion Game',
-      description: 'Python/PyGame arcade shooter built with OOP.',
-      link: 'https://github.com/danjwilko/python-projects',
-      video: '/Alien_invasion_demo_vid.mp4'
-    },
-    {
-      title: 'BEEYOND FITNESS Website',
-      description: 'The newly rebuilt BEEYOND FITNESS website, developed from scratch using SvelteKit and Tailwind CSS. Redesigned for modern styling, accessibility, and mobile responsiveness.',
-      link: 'https://beeyondfitness.co.uk',
-      image: '/BEEYOND-FITNESS-Site.png'
-    },
-    {
-      title: 'TryHackMe: Junior Penetration Tester Pathway',
-      description: 'Hands-on learning in offensive security, covering web, networking, enumeration, and exploitation. Progressing toward JPT1 and Security+ certification.',
-      link: 'https://tryhackme.com/p/Danjwilko',
-      iframe: "https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1336195"
-    },
-    {
-      title: 'BEEYOND FITNESS Legacy Website',
-      description: 'The original version of the BEEYOND FITNESS website before its full redesign. Included basic styling and limited responsiveness, later replaced with a modern responsive build using Svelte and Tailwind.',
-      link: 'https://cranky-cray-bb389b.netlify.app',
-      image: '/OLD-BEEYOND-FITNESS-Site.png'
-    }
-  ];
+  {
+    title: 'Alien Invasion Game',
+    description: 'An arcade-style space shooter built in Python with Pygame, adapted from Python Crash Course. Implemented using OOP principles with player controls, alien fleet generation, collision detection, and score tracking.',
+    link: 'https://github.com/danjwilko/python-projects',
+    video: '/Alien_invasion_demo_vid.mp4'
+  },
+  {
+    title: 'BEEYOND FITNESS Website',
+    description: 'Rebuilt the BEEYOND FITNESS business site from scratch using SvelteKit and Tailwind CSS. Designed for modern styling, accessibility, mobile responsiveness, and improved SEO performance.',
+    link: 'https://beeyondfitness.co.uk',
+    image: '/BEEYOND-FITNESS-Site.png'
+  },
+  {
+    title: 'TryHackMe: Junior Penetration Tester Pathway',
+    description: 'Hands-on cybersecurity learning covering web exploitation, network analysis, enumeration, privilege escalation, and vulnerability assessment. Progressing toward JPT1 and Security+ certification.',
+    link: 'https://tryhackme.com/p/Danjwilko',
+    iframe: "https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1336195"
+  },
+  {
+    title: 'Learning Log Web Application',
+    description: 'A Django web application for tracking learning topics and progress, adapted from Python Crash Course. Features user authentication, topic and entry creation, and a clean Bootstrap-based UI. Updated and deployed to PythonAnywhere after resolving deprecated instructions from the original tutorial.',
+    link: 'https://danjwilko.pythonanywhere.com',
+    image: '/Learning_Log_Screenshot.png'
+  },
+  {
+    title: 'BEEYOND FITNESS Legacy Website',
+    description: 'The original BEEYOND FITNESS site, built with basic HTML/CSS and minimal responsiveness. Served as the foundation for a complete redesign using SvelteKit and Tailwind CSS.',
+    link: 'https://cranky-cray-bb389b.netlify.app',
+    image: '/OLD-BEEYOND-FITNESS-Site.png'
+  }
+];
+
 </script>
 
 <div class="min-h-screen bg-gray-900 text-gray-100 font-inter">
