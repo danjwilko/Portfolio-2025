@@ -2,15 +2,18 @@
 <script>
   import ProjectCard from '../lib/ProjectCard.svelte';
   const projects = [
+  
   {
-    title: 'Alien Invasion Game',
-    description: 'An arcade-style space shooter built in Python with Pygame, adapted from Python Crash Course. Implemented using OOP principles with player controls, alien fleet generation, collision detection, and score tracking.',
-    link: 'https://github.com/danjwilko/python-projects',
-    video: '/Alien_invasion_demo_vid.mp4'
+    title: 'Learning Log Web Application',
+    description: 'A Django web application for tracking learning topics and progress, adapted from Python Crash Course. Features user authentication, topic and entry creation, and a clean Bootstrap-based UI. Updated and deployed to PythonAnywhere after resolving deprecated instructions from the original tutorial.',
+    tech: ["Python", "Django", "HTML", "Bootstrap", "Git", "PythonAnywhere deployment"],
+    link: 'https://danjwilko.pythonanywhere.com',
+    image: '/Learning-Log.png'
   },
   {
     title: 'BEEYOND FITNESS Website',
     description: 'Rebuilt the BEEYOND FITNESS business site from scratch using SvelteKit and Tailwind CSS. Designed for modern styling, accessibility, mobile responsiveness, and improved SEO performance.',
+    tech: ["SvelteKit", "Tailwind CSS", "HTML", "Git", "Netlify deployment"],
     link: 'https://beeyondfitness.co.uk',
     image: '/BEEYOND-FITNESS-Site.png'
   },
@@ -20,11 +23,13 @@
     link: 'https://tryhackme.com/p/Danjwilko',
     iframe: "https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1336195"
   },
+  
   {
-    title: 'Learning Log Web Application',
-    description: 'A Django web application for tracking learning topics and progress, adapted from Python Crash Course. Features user authentication, topic and entry creation, and a clean Bootstrap-based UI. Updated and deployed to PythonAnywhere after resolving deprecated instructions from the original tutorial.',
-    link: 'https://danjwilko.pythonanywhere.com',
-    image: '/Learning-Log.png'
+    title: 'Alien Invasion',
+    intro: 'Arcade-style space shooter built with Pygame. Developed following a guided project in Python Crash Course and expanded with gameplay tweaks. Implemented OOP principles, collision detection, alien fleet generation, and score tracking. Demonstrates understanding of game loops, event handling, and sprite management.',
+    tech: ["Python", "Pygame", "OOP", "Git"],
+    link: 'https://github.com/danjwilko/python-projects',
+    video: '/Alien_invasion_demo_vid.mp4'
   },
   {
     title: 'BEEYOND FITNESS Legacy Website',

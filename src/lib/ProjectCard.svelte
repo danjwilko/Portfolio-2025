@@ -1,7 +1,9 @@
 <!-- src/lib/ProjectCard.svelte -->
 <script>
   export let title;
+  export let intro;
   export let description;
+  export let tech = [];
   export let link;
   export let image = '';
   export let iframe = '';
@@ -44,6 +46,11 @@
 
 <div class="relative z-10">
   <h3 class="text-xl text-blue-400 font-semibold mb-2">{title}</h3>
+  <p class="text-sm text-gray-300 mb-2">{intro}</p>
   <p class="text-sm text-gray-300">{description}</p>
+  <p class="text-sm text-gray-400 mt-2">
+    {#if tech.length > 0}
+      <span class="font-semibold">Tech:</span> {tech.join(', ')}
+    {/if}
   </div>
 </a>
