@@ -8,20 +8,22 @@
     description: 'A Django web application for tracking learning topics and progress, adapted from Python Crash Course. Features user authentication, topic and entry creation, and a clean Bootstrap-based UI. Updated and deployed to PythonAnywhere after resolving deprecated instructions from the original tutorial.',
     tech: ["Python", "Django", "HTML", "Bootstrap", "Git", "PythonAnywhere deployment"],
     link: 'https://danjwilko.pythonanywhere.com',
-    image: '/Learning-Log.png'
+    image: '/Learning-Log.png',
+    button_link:'https://github.com/danjwilko/learning_log'
   },
   {
     title: 'BEEYOND FITNESS Website',
     description: 'Rebuilt the BEEYOND FITNESS business site from scratch using SvelteKit and Tailwind CSS. Designed for modern styling, accessibility, mobile responsiveness, and improved SEO performance.',
     tech: ["SvelteKit", "Tailwind CSS", "HTML", "Git", "Netlify deployment"],
     link: 'https://beeyondfitness.co.uk',
-    image: '/BEEYOND-FITNESS-Site.png'
+    image: '/BEEYOND-FITNESS-Site.png',
+    button_link: 'https://github.com/danjwilko/Beeyond-fitness-2025'
   },
   {
     title: 'TryHackMe: Junior Penetration Tester Pathway',
     description: 'Hands-on cybersecurity learning covering web exploitation, network analysis, enumeration, privilege escalation, and vulnerability assessment. Progressing toward JPT1 and Security+ certification.',
     link: 'https://tryhackme.com/p/Danjwilko',
-    iframe: "https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1336195"
+    image: '/Tryhackmebanner.png',
   },
   
   {
@@ -29,13 +31,15 @@
     intro: 'Arcade-style space shooter built with Pygame. Developed following a guided project in Python Crash Course and expanded with gameplay tweaks. Implemented OOP principles, collision detection, alien fleet generation, and score tracking. Demonstrates understanding of game loops, event handling, and sprite management.',
     tech: ["Python", "Pygame", "OOP", "Git"],
     link: 'https://github.com/danjwilko/python-projects',
-    video: '/Alien_invasion_demo_vid.mp4'
+    video: '/Alien_invasion_demo_vid.mp4',
+    button_link:'https://github.com/danjwilko/python-projects'
   },
   {
     title: 'BEEYOND FITNESS Legacy Website',
     description: 'The original BEEYOND FITNESS site, built with basic HTML/CSS and minimal responsiveness. Served as the foundation for a complete redesign using SvelteKit and Tailwind CSS.',
     link: 'https://cranky-cray-bb389b.netlify.app',
-    image: '/OLD-BEEYOND-FITNESS-Site.png'
+    image: '/OLD-BEEYOND-FITNESS-Site.png',
+    button_link: 'https://github.com/danjwilko/BEEYOND-FITNESS-PROJECT'
   }
 ];
 
