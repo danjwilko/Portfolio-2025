@@ -38,8 +38,6 @@ Ongoing hands-on cybersecurity learning covering topics like networking, enumera
 
 🔗 [TryHackMe Profile](https://tryhackme.com/p/danjwilko)
 
----
-s://tryhackme.com/p/danjwilko)
 
 ---
 
