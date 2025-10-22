@@ -1,6 +1,6 @@
 # Daniel Wilkinson — Developer Portfolio
 
-A personal portfolio site showcasing projects across web development, game programming, and cybersecurity learning. Built using SvelteKit and Tailwind CSS, the site is fully responsive, accessible, and optimized for modern browsers.
+A personal portfolio site showcasing projects across web development, python programming and game creation, and cybersecurity learning. Built using SvelteKit and Tailwind CSS, the site is fully responsive, accessible, and optimized for modern browsers.
 
 Live Site [danielwilkinson-dev.netlify.app](https://danielwilkinson-dev.netlify.app)
 
