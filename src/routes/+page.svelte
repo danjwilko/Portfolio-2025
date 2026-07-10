@@ -3,11 +3,34 @@
   import ProjectCard from '../lib/ProjectCard.svelte';
   const projects = [
   {
-    title: 'Password Manager - Stenvard',
-    description: 'A password manager built with Python and Django, built on the learning log base and expanded with user authentication, password encryption, and a secure interface for managing credentials. Deployed on PythonAnywhere.',
-    tech: ["Python", "Django", "HTML", "Bootstrap", "Git"],
-    image:'/Password-manager-screenshot.png',
-    button_link: 'https://github.com/danjwilko/stenvard-password-manager'
+    title: 'Secure Notes',
+    description: 'A secure multi-user notes application exploring Django, REST APIs, authentication and modern web application security.',
+    tech: [
+      'Python',
+      'Django',
+      'Django REST Framework',
+      'PostgreSQL',
+      'JWT',
+      'Bootstrap',
+      'Railway'
+    ],
+    image: '/Secure-Notes.png',
+    link: 'https://securenotes-production.up.railway.app/',
+    button_link: 'https://github.com/danjwilko/Secure_notes'
+  },
+  {
+    title: 'Password Manager',
+    description: 'A secure password manager currently in development, exploring modern cryptography, key management and secure software architecture using Django and PostgreSQL.',
+    tech: [
+      'Python',
+      'Django',
+      'PostgreSQL',
+      'Argon2id',
+      'Fernet',
+      'Bootstrap'
+    ],
+    image: '/Password-manager-screenshot.png',
+    button_link: 'https://github.com/danjwilko/password_manager'
   },
   {
     title: 'Learning Log Web Application',
