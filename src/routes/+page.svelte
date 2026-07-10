@@ -14,7 +14,7 @@
       'Bootstrap',
       'Railway'
     ],
-    image: '/Secure-Notes.png',
+    image: '/Secure-Notes-screenshot.png',
     link: 'https://securenotes-production.up.railway.app/',
     button_link: 'https://github.com/danjwilko/Secure_notes'
   },
