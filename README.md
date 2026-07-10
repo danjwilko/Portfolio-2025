@@ -1,54 +1,107 @@
 # Daniel Wilkinson — Developer Portfolio
 
-A personal portfolio site showcasing projects across web development, python programming and game creation, and cybersecurity learning. Built using SvelteKit and Tailwind CSS, the site is fully responsive, accessible, and optimized for modern browsers.
+A personal portfolio showcasing software engineering projects developed alongside my BSc (Hons) in Computing & IT with the Open University. My work focuses on secure backend development, Python, Django, REST APIs and modern web technologies, alongside a growing interest in software architecture and applied cryptography.
 
-Live Site [danielwilkinson-dev.netlify.app](https://danielwilkinson-dev.netlify.app)
+🌐 **Live Portfolio:** https://danielwilkinson-dev.netlify.app
 
 ---
 
 ## Features
 
-- Built with [SvelteKit](https://kit.svelte.dev/) for fast performance and clean structure
-- Styled using [Tailwind CSS](https://tailwindcss.com/) for mobile-first responsive design
+- Built with SvelteKit for fast performance and clean architecture
+- Styled using Tailwind CSS with a responsive, mobile-first design
 - Accessible and semantic HTML structure
-- Project showcase includes frontend, Python, and cybersecurity work
-- Includes live links to GitHub repos and deployed demos
+- Showcases live projects, GitHub repositories and technical write-ups
+- Links to deployed applications and source code
 
 ---
 
-## Project Highlights
+# Featured Projects
 
-### BEEYOND FITNESS Website
-A complete rebuild of a personal training and wellness business website. Originally a static HTML/CSS site, now fully redesigned using SvelteKit + Tailwind with mobile-first design and improved accessibility.
+## Secure Notes
 
-🔗 [Live Site](https://beeyondfitness.co.uk)  
-🔗 [GitHub Repo](https://github.com/danjwilko/Beeyond-fitness-2025)
+A secure multi-user notes application built using Django, Django REST Framework and PostgreSQL. Designed to explore secure web application development, authentication, REST API design and deployment.
 
----
+**Highlights**
 
-### Alien Invasion Game
-A simple arcade-style space shooter built using Python and PyGame. Demonstrates object-oriented programming and game loop logic.
+- JWT authentication with refresh token rotation and blacklisting
+- User-isolated data access
+- Markdown support with secure rendering
+- Automated testing using pytest
+- PostgreSQL database
+- Deployed on Railway
 
-🔗 [GitHub Repo](https://github.com/your-repo-link)
-
----
-
-### TryHackMe: Junior Penetration Tester Pathway
-Ongoing hands-on cybersecurity learning covering topics like networking, enumeration, exploitation, and web app security.
-
-🔗 [TryHackMe Profile](https://tryhackme.com/p/danjwilko)
-
+🔗 Live Demo  
+🔗 GitHub Repository
 
 ---
 
-## Structure
+## Password Manager *(Currently in Development)*
 
-src
-/lib          → Reusable components (ProjectCard, Navbar, etc.)
-/routes       → Main pages (index, about, contact)
-/static       → Project images and screenshots
-svelte.config.js
-tailwind.config.cjs
-README.md
+A secure password manager exploring modern cryptography, cryptographic key management and secure software architecture.
+
+**Current focus**
+
+- Argon2id key derivation
+- Fernet encryption
+- KEK/DEK architecture
+- Secure account recovery
+- Layered encryption design
+
+🔗 GitHub Repository
 
 ---
+
+## Learning Log
+
+A personal development log documenting university work, software engineering concepts, security research and ongoing technical learning.
+
+🔗 GitHub Repository
+
+---
+
+## Beeyond Fitness Website
+
+A complete redesign of a personal training website built using SvelteKit and Tailwind CSS, focusing on responsive design, accessibility and client collaboration.
+
+🔗 Live Site  
+🔗 GitHub Repository
+
+---
+
+## Cybersecurity Learning
+
+Alongside software development, I continue developing practical cybersecurity knowledge through TryHackMe, Microsoft Learn and independent study.
+
+🔗 TryHackMe Profile
+
+---
+
+## Technology
+
+- Python
+- Django
+- Django REST Framework
+- PostgreSQL
+- JavaScript
+- SvelteKit
+- Tailwind CSS
+- Git & GitHub
+- Railway
+- Netlify
+- Linux
+
+---
+
+## Project Structure
+
+```
+src/
+├── lib/
+├── routes/
+├── static/
+├── app.html
+└── README.md
+```
+
+This portfolio continues to evolve as I complete my Computing & IT degree and develop new software engineering projects. My focus is on building secure, maintainable software while continually expanding my technical knowledge through practical development.
