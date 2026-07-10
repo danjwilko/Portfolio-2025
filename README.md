@@ -55,7 +55,7 @@ GitHub: <https://github.com/danjwilko/password_manager>
 
 ## Learning Log
 
-A personal development log documenting university work, software engineering concepts, security research and ongoing technical learning.
+The learning Log is a Django web application for tracking learning topics and progress, adapted from Python Crash Course it features user authentication, topic and entry creation, and a clean Bootstrap-based UI. Updated and deployed to PythonAnywhere after resolving deprecated instructions from the original tutorial.
 
 Github: <https://github.com/danjwilko/learning_log>
 
