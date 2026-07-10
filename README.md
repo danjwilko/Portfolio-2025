@@ -2,7 +2,7 @@
 
 A personal portfolio showcasing software engineering projects developed alongside my BSc (Hons) in Computing & IT with the Open University. My work focuses on secure backend development, Python, Django, REST APIs and modern web technologies, alongside a growing interest in software architecture and applied cryptography.
 
-🌐 **Live Portfolio:** https://danielwilkinson-dev.netlify.app
+🌐 **Live Portfolio:** <https://danielwilkinson-dev.netlify.app>
 
 ---
 
@@ -16,13 +16,13 @@ A personal portfolio showcasing software engineering projects developed alongsid
 
 ---
 
-# Featured Projects
+## Featured Projects
 
 ## Secure Notes
 
 A secure multi-user notes application built using Django, Django REST Framework and PostgreSQL. Designed to explore secure web application development, authentication, REST API design and deployment.
 
-**Highlights**
+### Highlights
 
 - JWT authentication with refresh token rotation and blacklisting
 - User-isolated data access
@@ -31,8 +31,8 @@ A secure multi-user notes application built using Django, Django REST Framework 
 - PostgreSQL database
 - Deployed on Railway
 
-🔗 Live Demo  
-🔗 GitHub Repository
+Live Demo: <https://securenotes-production.up.railway.app/>
+🔗 GitHub: <https://github.com/danjwilko/Secure_notes>
 
 ---
 
@@ -40,15 +40,15 @@ A secure multi-user notes application built using Django, Django REST Framework 
 
 A secure password manager exploring modern cryptography, cryptographic key management and secure software architecture.
 
-**Current focus**
+### Current focus
 
 - Argon2id key derivation
 - Fernet encryption
-- KEK/DEK architecture
 - Secure account recovery
 - Layered encryption design
+- Researching and implementing KEK/DEK architecture
 
-🔗 GitHub Repository
+GitHub: <https://github.com/danjwilko/password_manager>
 
 ---
 
@@ -56,7 +56,8 @@ A secure password manager exploring modern cryptography, cryptographic key manag
 
 A personal development log documenting university work, software engineering concepts, security research and ongoing technical learning.
 
-🔗 GitHub Repository
+Github: <https://github.com/danjwilko/learning_log>
+Live Demo:  <https://danjwilko.pythonanywhere.com/>
 
 ---
 
@@ -64,8 +65,8 @@ A personal development log documenting university work, software engineering con
 
 A complete redesign of a personal training website built using SvelteKit and Tailwind CSS, focusing on responsive design, accessibility and client collaboration.
 
-🔗 Live Site  
-🔗 GitHub Repository
+Live Site: <https://beeyondfitness.co.uk/>
+GitHub: <https://github.com/danjwilko/Beeyond-fitness-2025>
 
 ---
 
@@ -73,7 +74,7 @@ A complete redesign of a personal training website built using SvelteKit and Tai
 
 Alongside software development, I continue developing practical cybersecurity knowledge through TryHackMe, Microsoft Learn and independent study.
 
-🔗 TryHackMe Profile
+TryHackMe Profile: <https://tryhackme.com/p/Danjwilko>
 
 ---
 
