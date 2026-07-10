@@ -2,7 +2,13 @@
 <script>
   import ProjectCard from '../lib/ProjectCard.svelte';
   const projects = [
-  
+  {
+    title: 'Password Manager - Stenvard',
+    description: 'A password manager built with Python and Django, built on the learning log base and expanded with user authentication, password encryption, and a secure interface for managing credentials. Deployed on PythonAnywhere.',
+    tech: ["Python", "Django", "HTML", "Bootstrap", "Git", "PythonAnywhere deployment"],
+    image:'/Password-manager-screenshot.png',
+    button_link: 'https://github.com/danjwilko/stenvard-password-manager'
+  }
   {
     title: 'Learning Log Web Application',
     description: 'A Django web application for tracking learning topics and progress, adapted from Python Crash Course. Features user authentication, topic and entry creation, and a clean Bootstrap-based UI. Updated and deployed to PythonAnywhere after resolving deprecated instructions from the original tutorial.',
