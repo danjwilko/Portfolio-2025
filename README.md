@@ -2,7 +2,7 @@
 
 A personal portfolio showcasing software engineering projects developed alongside my BSc (Hons) in Computing & IT with the Open University. My work focuses on secure backend development, Python, Django, REST APIs and modern web technologies, alongside a growing interest in software architecture and applied cryptography.
 
-🌐 **Live Portfolio:** <https://danielwilkinson-dev.netlify.app>
+**Live Portfolio:** <https://danielwilkinson-dev.netlify.app>
 
 ---
 
@@ -32,7 +32,8 @@ A secure multi-user notes application built using Django, Django REST Framework 
 - Deployed on Railway
 
 Live Demo: <https://securenotes-production.up.railway.app/>
-🔗 GitHub: <https://github.com/danjwilko/Secure_notes>
+
+GitHub: <https://github.com/danjwilko/Secure_notes>
 
 ---
 
@@ -57,6 +58,7 @@ GitHub: <https://github.com/danjwilko/password_manager>
 A personal development log documenting university work, software engineering concepts, security research and ongoing technical learning.
 
 Github: <https://github.com/danjwilko/learning_log>
+
 Live Demo:  <https://danjwilko.pythonanywhere.com/>
 
 ---
@@ -66,6 +68,7 @@ Live Demo:  <https://danjwilko.pythonanywhere.com/>
 A complete redesign of a personal training website built using SvelteKit and Tailwind CSS, focusing on responsive design, accessibility and client collaboration.
 
 Live Site: <https://beeyondfitness.co.uk/>
+
 GitHub: <https://github.com/danjwilko/Beeyond-fitness-2025>
 
 ---
@@ -92,17 +95,6 @@ TryHackMe Profile: <https://tryhackme.com/p/Danjwilko>
 - Netlify
 - Linux
 
----
-
-## Project Structure
-
-```
-src/
-├── lib/
-├── routes/
-├── static/
-├── app.html
-└── README.md
-```
+---Up
 
 This portfolio continues to evolve as I complete my Computing & IT degree and develop new software engineering projects. My focus is on building secure, maintainable software while continually expanding my technical knowledge through practical development.
