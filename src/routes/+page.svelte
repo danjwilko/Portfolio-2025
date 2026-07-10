@@ -5,8 +5,9 @@
   {
     title: 'Password Manager - Stenvard',
     description: 'A password manager built with Python and Django, built on the learning log base and expanded with user authentication, password encryption, and a secure interface for managing credentials. Deployed on PythonAnywhere.',
-    tech: ["Python", "Django", "HTML", "Bootstrap", "Git", "PythonAnywhere deployment"],
+    tech: ["Python", "Django", "HTML", "Bootstrap", "Git"],
     image:'/Password-manager-screenshot.png',
+    link: 'Not currently deployed',
     button_link: 'https://github.com/danjwilko/stenvard-password-manager'
   }
   {
