@@ -84,8 +84,8 @@
     <section class="mb-16">
       <h2 class="text-2xl font-semibold border-b border-blue-500 pb-2 mb-4">About Me</h2>
       <p>
-        Final-year OU Computing & IT student focusing on development and cyber security.
-        Currently working through the TryHackMe JPT pathway and preparing for Security+ alongside degree studies and personal projects.
+        Final-year Open University Computing & IT student with a strong interest in software development and application security. 
+        The projects below reflect my focus on building secure, maintainable applications while continuing to develop my skills through the TryHackMe JPT pathway and CompTIA Security+.
       </p>
     </section>
 
